@@ -1,4 +1,4 @@
-# Firmware for model SM-A336M - from Samsung package version A336MUBSEFYH2
+# Firmware for model SM-A336M - from Samsung package version 
 
 fld.bin_SM-A336M|1411e295f21f4a905f5ceed40eb5632c8ebfea95
 harx.bin_SM-A336M|ccbbf3074ce0ac9ee66f1af3c9dda51e6d11ed02
@@ -14,4 +14,4 @@ up_param.bin_SM-A336M|1773d78ee50ab76141f4af737e78981e59cc287f
 vbmeta.img_SM-A336M|2709a24c2f3a296d3d5756f6678b83caac2b87c9
 
 # Files containing Samsung package version for supported models
-version_SM-A336M|b52e166ef6cc08451f7564a7906658fd2f60c77f
+version_SM-A336M|adc83b19e793491b1c6ea0fd8b46cd9f32e592fc
