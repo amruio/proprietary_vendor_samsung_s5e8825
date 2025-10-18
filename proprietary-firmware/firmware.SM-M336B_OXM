@@ -1,4 +1,4 @@
-# Firmware for model SM-M336B - from Samsung package version M336BXXSDFYG2
+# Firmware for model SM-M336B - from Samsung package version 
 
 fld.bin_SM-M336B|6820998c894c079fbc31dabf651902a52a975cc9
 harx.bin_SM-M336B|27bcc1d68e00ae91fe4b9ce0cafff02d9e87cfb9
@@ -14,4 +14,4 @@ up_param.bin_SM-M336B|a422139c35ae686ed0da1bfe470d76f8a614447d
 vbmeta.img_SM-M336B|3a7a74a618bd0eb633a12af479cd1c3621f05e42
 
 # Files containing Samsung package version for supported models
-version_SM-M336B|79ec17a15cc6bcb4ebf7b647fb3da996c293ae2d
+version_SM-M336B|adc83b19e793491b1c6ea0fd8b46cd9f32e592fc
