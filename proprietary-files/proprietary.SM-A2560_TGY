@@ -1,15 +1,15 @@
-# Audio Firmware - from SM-A2560 - A2560ZHU7DYI8
+# Audio Firmware - from SM-A2560 - 
 vendor/firmware/APDV_AUDIO_SLSI.bin
 vendor/firmware/AP_AUDIO_SLSI.bin
 vendor/firmware/calliope_sram.bin
 vendor/firmware/vts.bin
 
-# Firmware - from SM-A2560 - A2560ZHU7DYI8
+# Firmware - from SM-A2560 - 
 vendor/firmware/NPU.bin
 vendor/firmware/mfc_fw.bin
 vendor/firmware/os.checked.bin
 
-# TEEgris Firmware - from SM-A2560 - A2560ZHU7DYI8
+# TEEgris Firmware - from SM-A2560 - 
 vendor/tee/00000000-0000-0000-0000-000000010081
 vendor/tee/00000000-0000-0000-0000-000000020081
 vendor/tee/00000000-0000-0000-0000-000000534b4d
@@ -51,18 +51,18 @@ vendor/tee/ffffffff-0000-0000-0000-000000000030
 vendor/tee/tui/resolution_common/ID00000100
 
 # With custom path
-# Audio Firmware - from SM-A2560 - A2560ZHU7DYI8
+# Audio Firmware - from SM-A2560 - 
 vendor/firmware/APDV_AUDIO_SLSI.bin:vendor/firmware/SM-A2560/APDV_AUDIO_SLSI.bin
 vendor/firmware/AP_AUDIO_SLSI.bin:vendor/firmware/SM-A2560/AP_AUDIO_SLSI.bin
 vendor/firmware/calliope_sram.bin:vendor/firmware/SM-A2560/calliope_sram.bin
 vendor/firmware/vts.bin:vendor/firmware/SM-A2560/vts.bin
 
-# Firmware - from SM-A2560 - A2560ZHU7DYI8
+# Firmware - from SM-A2560 - 
 vendor/firmware/NPU.bin:vendor/firmware/SM-A2560/NPU.bin
 vendor/firmware/mfc_fw.bin:vendor/firmware/SM-A2560/mfc_fw.bin
 vendor/firmware/os.checked.bin:vendor/firmware/SM-A2560/os.checked.bin
 
-# TEEgris Firmware - from SM-A2560 - A2560ZHU7DYI8
+# TEEgris Firmware - from SM-A2560 - 
 vendor/tee/00000000-0000-0000-0000-000000010081:vendor/tee/SM-A2560/00000000-0000-0000-0000-000000010081
 vendor/tee/00000000-0000-0000-0000-000000020081:vendor/tee/SM-A2560/00000000-0000-0000-0000-000000020081
 vendor/tee/00000000-0000-0000-0000-000000534b4d:vendor/tee/SM-A2560/00000000-0000-0000-0000-000000534b4d
@@ -104,18 +104,18 @@ vendor/tee/ffffffff-0000-0000-0000-000000000030:vendor/tee/SM-A2560/ffffffff-000
 vendor/tee/tui/resolution_common/ID00000100:vendor/tee/SM-A2560/tui/resolution_common/ID00000100
 
 # With sha1sum
-# Audio Firmware - from SM-A2560 - A2560ZHU7DYI8
+# Audio Firmware - from SM-A2560 - 
 vendor/firmware/APDV_AUDIO_SLSI.bin|93ffe051b993056e60f644aacd28545509a96aff
 vendor/firmware/AP_AUDIO_SLSI.bin|8b41b80969b5a09d8f72d34cef2fe2d3b4e5ed6e
 vendor/firmware/calliope_sram.bin|e3ac1ce37a2a2b19c5bcbe894001f61b13b9ad6c
 vendor/firmware/vts.bin|84646d1a3bb8c7d49c929b14ed7279e338f44841
 
-# Firmware - from SM-A2560 - A2560ZHU7DYI8
+# Firmware - from SM-A2560 - 
 vendor/firmware/NPU.bin|eda63e19e358b351b9055b5a8d8e80aee1afc02d
 vendor/firmware/mfc_fw.bin|3aa7fc0d4229c31fe1acedfcf7e4a682f87bf4ab
 vendor/firmware/os.checked.bin|f7af49dac3c503dbad7ddbab5e8dac8873f728ac
 
-# TEEgris Firmware - from SM-A2560 - A2560ZHU7DYI8
+# TEEgris Firmware - from SM-A2560 - 
 vendor/tee/00000000-0000-0000-0000-000000010081|4c34884c072abbf63f689bea06548fe42035b706
 vendor/tee/00000000-0000-0000-0000-000000020081|7db05fbddc411977bdcbfacc8c013922758ad929
 vendor/tee/00000000-0000-0000-0000-000000534b4d|ffc334a870385808a490950355f46a1367954a85
@@ -157,18 +157,18 @@ vendor/tee/ffffffff-0000-0000-0000-000000000030|c30c2ede81d40c8eeb38adb92abf63de
 vendor/tee/tui/resolution_common/ID00000100|a091703ae478a3da9b16201f559d296a665d7b8d
 
 # With sha1sum and path to model
-# Audio Firmware - from SM-A2560 - A2560ZHU7DYI8
+# Audio Firmware - from SM-A2560 - 
 vendor/firmware/SM-A2560/APDV_AUDIO_SLSI.bin|93ffe051b993056e60f644aacd28545509a96aff
 vendor/firmware/SM-A2560/AP_AUDIO_SLSI.bin|8b41b80969b5a09d8f72d34cef2fe2d3b4e5ed6e
 vendor/firmware/SM-A2560/calliope_sram.bin|e3ac1ce37a2a2b19c5bcbe894001f61b13b9ad6c
 vendor/firmware/SM-A2560/vts.bin|84646d1a3bb8c7d49c929b14ed7279e338f44841
 
-# Firmware - from SM-A2560 - A2560ZHU7DYI8
+# Firmware - from SM-A2560 - 
 vendor/firmware/SM-A2560/NPU.bin|eda63e19e358b351b9055b5a8d8e80aee1afc02d
 vendor/firmware/SM-A2560/mfc_fw.bin|3aa7fc0d4229c31fe1acedfcf7e4a682f87bf4ab
 vendor/firmware/SM-A2560/os.checked.bin|f7af49dac3c503dbad7ddbab5e8dac8873f728ac
 
-# TEEgris Firmware - from SM-A2560 - A2560ZHU7DYI8
+# TEEgris Firmware - from SM-A2560 - 
 vendor/tee/SM-A2560/00000000-0000-0000-0000-000000010081|4c34884c072abbf63f689bea06548fe42035b706
 vendor/tee/SM-A2560/00000000-0000-0000-0000-000000020081|7db05fbddc411977bdcbfacc8c013922758ad929
 vendor/tee/SM-A2560/00000000-0000-0000-0000-000000534b4d|ffc334a870385808a490950355f46a1367954a85
@@ -210,18 +210,18 @@ vendor/tee/SM-A2560/ffffffff-0000-0000-0000-000000000030|c30c2ede81d40c8eeb38adb
 vendor/tee/SM-A2560/tui/resolution_common/ID00000100|a091703ae478a3da9b16201f559d296a665d7b8d
 
 # With custom path and sha1sum
-# Audio Firmware - from SM-A2560 - A2560ZHU7DYI8
+# Audio Firmware - from SM-A2560 - 
 vendor/firmware/APDV_AUDIO_SLSI.bin:vendor/firmware/SM-A2560/APDV_AUDIO_SLSI.bin|93ffe051b993056e60f644aacd28545509a96aff
 vendor/firmware/AP_AUDIO_SLSI.bin:vendor/firmware/SM-A2560/AP_AUDIO_SLSI.bin|8b41b80969b5a09d8f72d34cef2fe2d3b4e5ed6e
 vendor/firmware/calliope_sram.bin:vendor/firmware/SM-A2560/calliope_sram.bin|e3ac1ce37a2a2b19c5bcbe894001f61b13b9ad6c
 vendor/firmware/vts.bin:vendor/firmware/SM-A2560/vts.bin|84646d1a3bb8c7d49c929b14ed7279e338f44841
 
-# Firmware - from SM-A2560 - A2560ZHU7DYI8
+# Firmware - from SM-A2560 - 
 vendor/firmware/NPU.bin:vendor/firmware/SM-A2560/NPU.bin|eda63e19e358b351b9055b5a8d8e80aee1afc02d
 vendor/firmware/mfc_fw.bin:vendor/firmware/SM-A2560/mfc_fw.bin|3aa7fc0d4229c31fe1acedfcf7e4a682f87bf4ab
 vendor/firmware/os.checked.bin:vendor/firmware/SM-A2560/os.checked.bin|f7af49dac3c503dbad7ddbab5e8dac8873f728ac
 
-# TEEgris Firmware - from SM-A2560 - A2560ZHU7DYI8
+# TEEgris Firmware - from SM-A2560 - 
 vendor/tee/00000000-0000-0000-0000-000000010081:vendor/tee/SM-A2560/00000000-0000-0000-0000-000000010081|4c34884c072abbf63f689bea06548fe42035b706
 vendor/tee/00000000-0000-0000-0000-000000020081:vendor/tee/SM-A2560/00000000-0000-0000-0000-000000020081|7db05fbddc411977bdcbfacc8c013922758ad929
 vendor/tee/00000000-0000-0000-0000-000000534b4d:vendor/tee/SM-A2560/00000000-0000-0000-0000-000000534b4d|ffc334a870385808a490950355f46a1367954a85

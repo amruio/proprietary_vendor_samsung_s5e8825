@@ -1,4 +1,4 @@
-# Firmware for model SM-A2560 - from Samsung package version A2560ZHU7DYI8
+# Firmware for model SM-A2560 - from Samsung package version 
 
 fld.bin_SM-A2560|f97d8524365034f2e418e82aefe4eab89bb26227
 harx.bin_SM-A2560|5651babd8c765d59980e2242da6828da8b2a2de2
@@ -14,4 +14,4 @@ up_param.bin_SM-A2560|cbf80470ebf600a85a650c82f853dc28647a1e5f
 vbmeta.img_SM-A2560|fb8c225813e8fc9747cd1a3134e7e5f2971103b7
 
 # Files containing Samsung package version for supported models
-version_SM-A2560|6e54e7dbe07835573a955248937d1e3f167f852e
+version_SM-A2560|adc83b19e793491b1c6ea0fd8b46cd9f32e592fc
