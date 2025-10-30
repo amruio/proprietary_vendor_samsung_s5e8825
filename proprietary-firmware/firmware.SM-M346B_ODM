@@ -1,17 +1,17 @@
-# Firmware for model SM-M346B - from Samsung package version M346BXXU8EYI8
+# Firmware for model SM-M346B - from Samsung package version M346BXXS8EYJ2
 
-fld.bin_SM-M346B|1523c559515f8d8e84b05d46e8abdecf42f99143
-harx.bin_SM-M346B|691c3f897ee057ba563aa3f208cc266c9c6a7996
-keystorage.bin_SM-M346B|d5415f24aabb0cc66626ece02a546ad40ad98acb
-ldfw.img_SM-M346B|acc53759602c981dea529ec747e3a3486c8da625
-modem.bin_SM-M346B|eddc507866e1eb28f1d23062862711b061083745
-modem_debug.bin_SM-M346B|2c4916f6ba07bcf06598ff1fda05e982259253ea
-sboot.bin_SM-M346B|e86efc25a319bc01ed48479c13bcc559ba57bdb0
-tzar.img_SM-M346B|26da9cd418a6d736f08128b9a526ebaa47009190
-tzsw.img_SM-M346B|e0305c83a1d996beaea0915d083a0cc644ca7260
-uh.bin_SM-M346B|dc08ea1a76ba3983e4760b1b489ba215e7fe46ad
-up_param.bin_SM-M346B|f0fc33be0d47f921385bd1f26048ea7ec539e2f0
-vbmeta.img_SM-M346B|2f2311bb3b8fbb7e6983498853c3ad744006cd23
+fld.bin_SM-M346B|062afeebf9879b2abd255c93011a0e3f0715a2ea
+harx.bin_SM-M346B|ded93d7f81cf9c6365c97bdac0a9385770d72f2c
+keystorage.bin_SM-M346B|35ba1015985c74fa0a4dde6c2e46bf1dd38c8ac1
+ldfw.img_SM-M346B|41183876ce84464401375f95ccd17bd08b023475
+modem.bin_SM-M346B|b0334717909a81d4f228486e82f2cf9c4178182c
+modem_debug.bin_SM-M346B|81bedc4b2782c013c79c04222af93010709b3907
+sboot.bin_SM-M346B|26dc2a04dacc99d9d34367d865cc523382061992
+tzar.img_SM-M346B|d12ddd849874ca2d1f3d218db28a842d393d2fa4
+tzsw.img_SM-M346B|4dc5eba834fd149b2c8eee8dede60bb6b91b7264
+uh.bin_SM-M346B|7349bb91a4d788325b2793c5939ac9aea9c3f829
+up_param.bin_SM-M346B|d04d7c3b50942a1e4e4edb39cd78597b7a6f661e
+vbmeta.img_SM-M346B|f9625cf1369464e6192e5e04193c7b73c714954a
 
 # Files containing Samsung package version for supported models
-version_SM-M346B|b9d41a53068bd2d4a2ee7d957c50a9377c5d7464
+version_SM-M346B|3c7fa33818527ba93fcb9a41a559268f5fc3654e
